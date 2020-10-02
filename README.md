@@ -1,4 +1,4 @@
-# backpropagation-NN-from-scratch
+# Backpropagation algorithm from scratch
 
 Implementation of the backpropagation algorithm in Python using only the numpy library.
 
